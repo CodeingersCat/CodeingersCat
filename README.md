@@ -80,11 +80,6 @@ Here are some ideas to get you started:
 <br>
 
 <h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeingersCat&show_icons=true&locale=en&layout=compact"
-    alt="codeinger" /></p>
-
-<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeingersCat&show_icons=true&locale=en"
     alt="codeinger" /></p>
