@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning web development with React, Python, NodeJS and other technologies
+- 🌱 I’m learning web development with React, Python, NodeJS and other technologies
 
 - 🔭 I’m currently working on an <a href="https://github.com/CodeingersCat/online-store">ecommerce app built with NextJS and Express</a>
 
