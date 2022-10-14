@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m learning web development with React, Python, NodeJS and other technologies
 
-- 🔭 I’m currently working on an <a href="https://github.com/CodeingersCat/online-store">ecommerce app built with NextJS and Express</a>
+- 🔭 I’m currently building an <a href="https://github.com/CodeingersCat/online-store">ecommerce app with NextJS</a>
 
 - 📫 Reach me **shrawansb2000@gmail.com**
 
